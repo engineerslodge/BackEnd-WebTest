@@ -12,8 +12,10 @@ Your API should have 3 root paths:
 
 a. /chuck  
 - https://test.academiaportal.com.ng/api/chuck/categories
+
 b. /swapi  
 - https://test.academiaportal.com.ng/api/swapi/people/
+
 c. /search
 -  https://test.academiaportal.com.ng/api/search?query=1  
 -  or https://test.academiaportal.com.ng/api/search?query=animal
